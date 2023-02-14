@@ -1,0 +1,1 @@
+vamos usar ambientes de producao com ferramnetas de log, acompoanho disco, cpu, io, rede

@@ -1,0 +1,5 @@
+req1- para o carro iniciar uma viagem, precisamos passar um parametro com a distância.
+req2- o carro deverá ser movido a energia solar
+req3- o carro deverá ter ao menos um passageiro 
+
+
